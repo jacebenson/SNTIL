@@ -1,4 +1,7 @@
 # SNTIL
+
+Kalai's blog.  Served up at sntil.netlify.app
+
 ServiceNow TIL (Today I Learned)
 
 - Each TIL post will be logged as an issue. 
